@@ -26,9 +26,9 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-  - Statistics and Probability
-  - Mathematical Analysis
-  - Algorithms and Datastructures
+  - Analysis, Measure, Probability
+  - Algorithms
+  - A bit of Quantum Mechanics
 
 
 # Education to show in About widget
@@ -49,9 +49,10 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:matthijs.muis@ru.nl
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: mailto:matthijs.muis@ru.nl
+
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -81,9 +82,9 @@ email: ''
 highlight_name: true
 ---
 
-I am a BSc student in Mathematics and in Computer Science at Radboud University, who is currently enjoying a minor in Physics. At the moment, I am busy studying my two degrees and getting involved in research via my faculty's Honours programme. I always thought I had a preference for applied mathematics, but I am currently really enjoying the more abstract courses, in particular Topology and Measure Theory. 
+I am a BSc student in Mathematics and in Computer Science at Radboud University. I also enjoy Physics courses, which at the moment will remain a minor. At the moment, I am also involved in an extracurricular research-oriented Honours programme. This website is primarily dedicated to study-related things, for example it has a list of course summaries that I made. But I also use it to export some of my pastimes, such as my art.
 
-Mathematical puzzles have occupied me since longer: I once participated in the [Dutch Mathematical Olympiad](https://wiskundeolympiade.nl/docenten/info-in-english) (2021), where I got to 16th place in the national finale. I did a secondary school project on optimizing Black Jack strategies using reinforcement learning, which was awarded the first prize in the [OMO PWS Contest](https://www.omojaarverslag.nl/verslag2022/f/omoprijzen/omoprijzen-een-bijzondere-motiveringsprijs-voor-leerlingen) (2022). This summer (2023), I was selected for the [Cornell, Maryland, Max Planck Pre-doctoral Research School](https://cmmrs.mpi-sws.org/). It was a very inspiring experience where I met many talented and passionate researchers. 
+Some of my past experiences that I am quite proud of: I once participated in the [Dutch Mathematical Olympiad](https://wiskundeolympiade.nl/docenten/info-in-english) (2021), where I got to 16th place in the national finale. I did a secondary school project on optimizing Black Jack strategies using Reinforcement Learning, which was awarded the first prize in the [OMO PWS Contest](https://www.omojaarverslag.nl/verslag2022/f/omoprijzen/omoprijzen-een-bijzondere-motiveringsprijs-voor-leerlingen) (2022). In summer 2023, I got an exclusive look into CS research by participating in the [Cornell, Maryland, Max Planck Pre-doctoral Research School](https://cmmrs.mpi-sws.org/). I had never experienced my area of studies in this way before, and it opened my eyes to the possibilities within scientific research.
 
 
 {style="text-align: justify;"}

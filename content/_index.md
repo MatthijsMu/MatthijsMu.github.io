@@ -168,7 +168,7 @@ sections:
           date_start: '2023-11-27'
           date_end: '2023-11-27'
           description: |2-
-            Awarded for outstanding grades among all first year BCs Computer Science
+            Awarded for outstanding grades among first year BSc Computer Science
             students in the Netherlands.
             Prize of &euro; 500.
           organization: Royal Dutch Society of Sciences

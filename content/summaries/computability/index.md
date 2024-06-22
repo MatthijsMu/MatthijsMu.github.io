@@ -1,7 +1,7 @@
 ---
 title: Computability
 summary: |-
-  Summary bachelor course Computability
+  Summary of Computability Theory, quarter course.
 tags:
 date: "2022-12-12T00:00:00Z"
 show_date: false
@@ -13,7 +13,8 @@ image:
   caption: "A Standard Turing Machine that emulates a Nondeterministic one"
   focal_point: Smart
 ---
-Very nice course! [Here](Computability.pdf) are the notes (handwritten). 
+### Summary
+Very nice course! [Here](Computability1.pdf) are the notes (handwritten). 
 
 ### Coverage
 

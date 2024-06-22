@@ -13,9 +13,10 @@ image:
   caption: "Character Table of D6"
   focal_point: Smart
 ---
-### Coverage
-Chapters 3,4,5,8 from Steinber <i>Representation Theory of Finite Groups</i>. In Dutch!
-
 ### Summary
 
 [Here!](RepresentatieTheorie.pdf)
+
+### Coverage
+Chapters 3,4,5,8 from Steinberg, <i>Representation Theory of Finite Groups</i>. In Dutch!
+

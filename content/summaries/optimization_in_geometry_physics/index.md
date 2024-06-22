@@ -10,6 +10,10 @@ show_date: false
 external_link: ''
 
 ---
+### Summary
+
+[Here!](OGP.pdf)
+
 ### Coverage
 From the book Kielhöfer, <i>Calculus of Variations: An Introduction to the One-Dimensional Theory with Examples and Exercises</i>:
 - 1.3 Fundamental Lemma of Calculus of Variations.
@@ -18,7 +22,3 @@ From the book Kielhöfer, <i>Calculus of Variations: An Introduction to the One-
 - 1.8 Brachistochrone problem
 - 1.9 Natural Boundary Conditions.
 - 1.10 Functionals in parametric form (i.e. multivariable CoV), invariance under reparametrizations.
-
-### Summary
-
-[Here!](OGP.pdf)

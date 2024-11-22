@@ -26,10 +26,11 @@ bio: ""
 
 # Interests to show in About widget
 interests:
-  - Analysis, Measure, Probability
-  - Algorithms
-  - A bit of Quantum Mechanics
-
+  - Functional Analysis, Measure Theory
+  - Manifolds
+  - Random Graphs
+  - Algorithms, Discrete Optimisation
+  - Algebra
 
 # Education to show in About widget
 education:
@@ -83,8 +84,5 @@ highlight_name: true
 ---
 
 I am a BSc student in Mathematics and in Computer Science at Radboud University. I also enjoy Physics courses, which at the moment will remain a minor. At the moment, I am also involved in an extracurricular research-oriented Honours programme. This website is primarily dedicated to study-related things, for example it has a list of course summaries that I made. But I also use it to export some of my pastimes, such as drawing \& painting.
-
-Some of my past experiences that I am quite proud of: I once participated in the [Dutch Mathematical Olympiad](https://wiskundeolympiade.nl/docenten/info-in-english) (2021), where I got to 16th place in the national finale. I did a secondary school project on optimizing Black Jack strategies using Reinforcement Learning, which was awarded the first prize in the [OMO PWS Contest](https://www.omojaarverslag.nl/verslag2022/f/omoprijzen/omoprijzen-een-bijzondere-motiveringsprijs-voor-leerlingen) (2022). Also in secondary school, I began following Mathematics courses at university, and I found this so interesting that I almost completed the first year of my bachelor before coming to Radboud. In summer 2023, I got an exclusive look into CS research by participating in the [Cornell, Maryland, Max Planck Pre-doctoral Research School](https://cmmrs.mpi-sws.org/). I had never experienced my area of studies in this way before, and it opened my eyes to the possibilities within scientific research.
-
 
 {style="text-align: justify;"}

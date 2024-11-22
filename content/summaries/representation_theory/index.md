@@ -18,5 +18,5 @@ image:
 [Here!](RepresentatieTheorie.pdf)
 
 ### Coverage
-Chapters 3,4,5,8 from Steinberg, <i>Representation Theory of Finite Groups</i>. In Dutch!
+Chapters 3,4,5,8 from Steinberg, <i>Representation Theory of Finite Groups</i>. In Dutch.
 

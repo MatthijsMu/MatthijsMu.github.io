@@ -2,7 +2,7 @@
 title: Game Theory
 summary: "Summary for the course Game Theory at Radboud University: Transferrable Utility games, Matrix games, Bimatrix games."
 tags:
-date: "2023-1-1"
+date: "2022-12-12T00:00:00Z"
 show_date: false
 # Optional external URL for project (replaces project detail page).
 external_link: ''

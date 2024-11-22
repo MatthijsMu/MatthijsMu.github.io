@@ -83,6 +83,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a BSc student in Mathematics and in Computer Science at Radboud University. I also enjoy Physics courses, which at the moment will remain a minor. At the moment, I am also involved in an extracurricular research-oriented Honours programme. This website is primarily dedicated to study-related things, for example it has a list of course summaries that I made. But I also use it to export some of my pastimes, such as drawing \& painting.
+I am a BSc student in Mathematics and in Computer Science at Radboud University. I also enjoy Physics courses, which for now will remain part of a minor. This website is primarily dedicated to professional study-related topics; you can scroll down to find my education, extracurricular experience, course summaries and projects. I also use this website to export some of my pastimes, such as drawing \& painting.
 
 {style="text-align: justify;"}
